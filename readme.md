@@ -15,3 +15,4 @@ Feature ideas to implement.
 - Sort by date / priority.
 - Create logins and allow shared projects / notes between users.
 
+![alt text](img/todoHome.jpg "App Preview")
