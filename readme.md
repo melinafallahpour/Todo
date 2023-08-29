@@ -15,4 +15,4 @@ Feature ideas to implement.
 - Sort by date / priority.
 - Create logins and allow shared projects / notes between users.
 
-![alt text](https://raw.githubusercontent.com/melinafallahpour/Todo/img/todoHome.jpg "App Preview")
+![alt text](img/todoHome.jpg "App Preview")
