@@ -15,4 +15,7 @@ Feature ideas to implement.
 - Sort by date / priority.
 - Create logins and allow shared projects / notes between users.
 
+
+[Live App](https://melinafallahpour.github.io/Todo.github.io/)
+
 ![alt text](img/todoHome.jpg "App Preview")
